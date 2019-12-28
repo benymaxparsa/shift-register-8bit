@@ -9,13 +9,13 @@ z2
 cModel Technology
 dC:/Modeltech_pe_edu_10.4a/examples
 vShiftregister
-!s110 1577542026
+!s110 1577548176
 !i10b 1
-!s100 <Xnbg?_FPP57Q>W:?C>6B2
-IP2?`ILkcR8aX3<_B9okVY2
+!s100 [KT:4ZF;::M3YYaJW?PzZ1
+IO2e5mV^lJC`EAcJ^dR@[U1
 VDg1SIo80bB@j0V0VzS_@n1
 dD:/Work/modelSim workspace
-w1577542024
+w1577548174
 8D:/Work/modelSim workspace/shiftReg.v
 FD:/Work/modelSim workspace/shiftReg.v
 L0 2
@@ -23,7 +23,7 @@ OP;L;10.4a;61
 r1
 !s85 0
 31
-!s108 1577542026.000000
+!s108 1577548176.000000
 !s107 D:/Work/modelSim workspace/shiftReg.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Work/modelSim workspace/shiftReg.v|
 !s101 -O0
